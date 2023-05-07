@@ -31,6 +31,9 @@ Descarga la imagen de Docker desde Docker Hub:
 docker pull frankjrdev/idesoft-test:v1
 Ejecuta el contenedor Docker:
 
+link de imagen: https://hub.docker.com/repository/docker/frankjrdev/idesoft-test/tags?page=1&ordering=last_updated
+
+
 Copy
 docker run -p 8080:8080 frankjrdev/idesoft-test:1.0.0
 La aplicación estará disponible en http://localhost:8080.

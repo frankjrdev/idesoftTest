@@ -28,7 +28,7 @@ mvnw spring-boot:run
 Desde Docker
 Descarga la imagen de Docker desde Docker Hub:
 
-docker pull frankjrdev/idesoft-test:1.0.0
+docker pull frankjrdev/idesoft-test:v1
 Ejecuta el contenedor Docker:
 
 Copy
